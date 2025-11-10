@@ -1211,7 +1211,7 @@ Since sales velocity starts increasing in Q4 (culminating in the December peak),
 ## 📌 Access Files
 + Data File (.csv) - [File Location](https://github.com/krisshanr98/Retail_Store_Analytics_Project/blob/main/data_clean.csv)
 + SQL Files - [File Location](https://github.com/krisshanr98/Retail_Store_Analytics_Project/tree/main/sql_scripts)
-+ Python files - [File Location]
++ Python files - [File Location](https://github.com/krisshanr98/Retail_Store_Analytics_Project/tree/main/python_scripts)
 
 ## 📄 License
 This project is open source for learning and personal portfolio use.
