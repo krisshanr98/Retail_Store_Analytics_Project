@@ -1209,9 +1209,9 @@ The forecast confirms a predictable post-holiday drop in revenue, with January 2
 Since sales velocity starts increasing in Q4 (culminating in the December peak), marketing efforts should be heavily concentrated and front-loaded in October and November to maximize customer acquisition leading into the highest-value month.*
 
 ## 📌 Access Files
-+ Data File (.csv) -
-+ SQL Files -
-+ Python files - 
++ Data File (.csv) - [File Location](https://github.com/krisshanr98/Retail_Store_Analytics_Project/blob/main/data_clean.csv)
++ SQL Files - [File Location](https://github.com/krisshanr98/Retail_Store_Analytics_Project/tree/main/sql_scripts)
++ Python files - [File Location]
 
 ## 📄 License
 This project is open source for learning and personal portfolio use.
